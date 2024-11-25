@@ -1,6 +1,6 @@
 ## Gumtreeとは
-テキスト間の差分を解析できるツール
-他のコマンドは[wiki](https://github.com/GumTreeDiff/gumtree/wiki/Commands#swingdiff)参照
+テキスト間の差分を解析できるツール  
+他のコマンドは[wiki](https://github.com/GumTreeDiff/gumtree/wiki/Commands)参照
 ## setup
 1. dockerコンテナの立ち上げ
 ```
